@@ -7,6 +7,7 @@ Through user testing, this project observed that university-based contact tracin
 In this zip file, it contains all the code for my application QMSafe.  Along with the attempted BLE implementations.
 
 Command to run QMSafe:
-	1. npm install
-	2. react-native run-ios
+
+1. npm install
+2. react-native run-ios
 
